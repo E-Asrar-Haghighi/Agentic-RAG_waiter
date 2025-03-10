@@ -12,7 +12,7 @@ This project implements an **Agentic Retrieval-Augmented Generation (RAG) system
 ## Technologies Used  
 - **LangChain** for agentic workflows  
 - **FAISS** for efficient similarity search  
-- **LLMs (e.g., GPT-based models)** for response generation  
+- **LLMs (GPT-based models)** for response generation  
 - **Python** for implementation and experimentation  
 
 ## Usage  
